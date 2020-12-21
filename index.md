@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ChrystianShiruo/DownAtTheDocks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+  Privacy Policy
 
-# Header 1
-## Header 2
-### Header 3
+  Cobra Studios built the ToyMaker app as a Commercial app. This SERVICE is provided by Cobra Studios and is intended for use as is.
 
-- Bulleted
-- List
+  This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-1. Numbered
-2. List
+  If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**Bold** and _Italic_ and `Code` text
+  The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at ToyMaker unless otherwise defined in this Privacy Policy. 
 
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrystianShiruo/DownAtTheDocks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
