@@ -18,10 +18,8 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-    <a href="https://www.google.com/policies/privacy/" rel="noopener noreferrer" target="_blank">Google Play Services</a>
-    Facebook
-    Unity
-    Adjust
+    Google Play Services: https://www.google.com/policies/privacy/
+    Unity: https://unity3d.com/legal/privacy-policy
 
 Log Data
 
